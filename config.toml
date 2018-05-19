@@ -1,3 +1,37 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Sudeep LandingPage"
+baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "Start Your Journey"
+  about = "Travel &nbsp;&bull;&nbsp; Camping &nbsp;&bull;&nbsp; Trekking"
+  copyright = "CopyRigth Under CCl license"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
