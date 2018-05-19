@@ -12,9 +12,9 @@ theme = "aerial"
   favicon = "favicon.ico"
 
 [[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
+  medium = "Home"
+  icon = "home"
+  link = "http://localhost:1313/"
 
 [[params.social]]
   medium = "Facebook"
@@ -22,14 +22,9 @@ theme = "aerial"
   link = "#"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "#"
+  medium = "Instagram"
+  icon = "instagram"
+  link = "http://localhost:1313/"
 
 [[params.social]]
   medium = "Email"
