@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Sudeep LandingPage"
-baseurl = "http://example.org/"
+baseurl = "http://try1231234.s3-website-us-east-1.amazonaws.com"
 theme = "aerial"
 
 [params]
@@ -14,7 +14,7 @@ theme = "aerial"
 [[params.social]]
   medium = "Home"
   icon = "home"
-  link = "http://localhost:1313/"
+  link = "http://try1231234.s3-website-us-east-1.amazonaws.com"
 
 [[params.social]]
   medium = "Facebook"
@@ -24,7 +24,7 @@ theme = "aerial"
 [[params.social]]
   medium = "Instagram"
   icon = "instagram"
-  link = "http://localhost:1313/"
+  link = "http://try1231234.s3-website-us-east-1.amazonaws.com"
 
 [[params.social]]
   medium = "Email"
